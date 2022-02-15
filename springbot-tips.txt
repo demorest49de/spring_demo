@@ -1,0 +1,9 @@
+client 
+
+service layer is responsible for business logic;
+
+data access layer => access to database;
+
+ctrl + P - show paramaters in methods, generics, etc
+
+https://youtu.be/9SGDpanrc8U?t=3619
